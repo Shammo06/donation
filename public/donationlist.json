@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/DMD4SRY/Health.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "categoryBg": "#bfdbfe",
+      "cardBg": "#dbeafe",
+      "textAndButtonBg": "#2563eb",
+      "description": "Access to clean water is vital for the health and well-being of children. Governments can invest in water infrastructure, while families can promote hygiene at home. Educators can teach the importance of clean water and inspire students to become advocates for this essential resource, ensuring a brighter future for our children.",
+      "price": "290.00"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/xSQL3w5/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "categoryBg": "#fef08a",
+      "cardBg": "#fef9c3",
+      "textAndButtonBg": "#ca8a04",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "390.00"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/L0s619t/Clothing.png",
+      "title":"Used Clothing Drive" ,
+      "category": "Clothing",
+      "categoryBg": "#bbf7d0",
+      "cardBg": "#dcfce7",
+      "textAndButtonBg": "#16a34a",
+      "description": "Help make a difference in the lives of those in need through our Used Clothing Drive. Your contribution will provide warm clothing to individuals facing cold weather, ensuring their comfort and well-being. By donating gently used clothing items, you are not only recycling fashion but also extending a helping hand to those less fortunate.",
+      "price": "290.00"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/MRsZGHM/Food.png",
+      "title": "Food for Everyone",
+      "category": "Food",
+      "categoryBg":"#fecdd3",
+      "cardBg": "#ffe4e6",
+      "textAndButtonBg": "#e11d48",
+      "description": "Our Better Food for Everyone initiative is dedicated to addressing the critical issue of hunger and malnutrition. We believe that access to nutritious food is a basic human right, and your support can make a significant impact. By contributing to this cause, you're helping us provide wholesome meals to underserved communities, ensuring that no one goes to bed hungry. Together, we can build a healthier, more equitable world where everyone has the nourishment they need to thrive.",
+      "price": "300.00"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/MRsZGHM/Food.png",
+      "title": "Daily Meal for Everyone",
+      "category": "Food",
+      "categoryBg":"#fecdd3",
+      "cardBg": "#ffe4e6",
+      "textAndButtonBg": "#e11d48",
+      "description": "Our Better Food for Everyone initiative is dedicated to addressing the critical issue of hunger and malnutrition. We believe that access to nutritious food is a basic human right, and your support can make a significant impact. By contributing to this cause, you're helping us provide wholesome meals to underserved communities, ensuring that no one goes to bed hungry. Together, we can build a healthier, more equitable world where everyone has the nourishment they need to thrive.",
+      "price": "300.00"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/L0s619t/Clothing.png",
+      "title":"Clothing for healthy life" ,
+      "category": "Clothing",
+      "categoryBg": "#bbf7d0",
+      "cardBg": "#dcfce7",
+      "textAndButtonBg": "#16a34a",
+      "description": "Help make a difference in the lives of those in need through our Used Clothing Drive. Your contribution will provide warm clothing to individuals facing cold weather, ensuring their comfort and well-being. By donating gently used clothing items, you are not only recycling fashion but also extending a helping hand to those less fortunate.",
+      "price": "290.00"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/xSQL3w5/Education.png",
+      "title": "Education to Remove Poverty",
+      "category": "Education",
+      "categoryBg": "#fef08a",
+      "cardBg": "#fef9c3",
+      "textAndButtonBg": "#ca8a04",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "390.00"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/DMD4SRY/Health.png",
+      "title": "Clean Water for Cook",
+      "category": "Health",
+      "categoryBg": "#bfdbfe",
+      "cardBg": "#dbeafe",
+      "textAndButtonBg": "#2563eb",
+      "description": "Access to clean water is vital for the health and well-being of children. Governments can invest in water infrastructure, while families can promote hygiene at home. Educators can teach the importance of clean water and inspire students to become advocates for this essential resource, ensuring a brighter future for our children.",
+      "price": "290.00"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/DMD4SRY/Health.png",
+      "title": "Clean Water for Daily Life",
+      "category": "Health",
+      "categoryBg": "#bfdbfe",
+      "cardBg": "#dbeafe",
+      "textAndButtonBg": "#2563eb",
+      "description": "Access to clean water is vital for the health and well-being of children. Governments can invest in water infrastructure, while families can promote hygiene at home. Educators can teach the importance of clean water and inspire students to become advocates for this essential resource, ensuring a brighter future for our children.",
+      "price": "290.00"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/xSQL3w5/Education.png",
+      "title": "Education for change",
+      "category": "Education",
+      "categoryBg": "#fef08a",
+      "cardBg": "#fef9c3",
+      "textAndButtonBg": "#ca8a04",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "390.00"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/L0s619t/Clothing.png",
+      "title":"Clothing for Change" ,
+      "category": "Clothing",
+      "categoryBg": "#bbf7d0",
+      "cardBg": "#dcfce7",
+      "textAndButtonBg": "#16a34a",
+      "description": "Help make a difference in the lives of those in need through our Used Clothing Drive. Your contribution will provide warm clothing to individuals facing cold weather, ensuring their comfort and well-being. By donating gently used clothing items, you are not only recycling fashion but also extending a helping hand to those less fortunate.",
+      "price": "290.00"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/MRsZGHM/Food.png",
+      "title": "Food for Nutrition",
+      "category": "Food",
+      "categoryBg":"#fecdd3",
+      "cardBg": "#ffe4e6",
+      "textAndButtonBg": "#e11d48",
+      "description": "Our Better Food for Everyone initiative is dedicated to addressing the critical issue of hunger and malnutrition. We believe that access to nutritious food is a basic human right, and your support can make a significant impact. By contributing to this cause, you're helping us provide wholesome meals to underserved communities, ensuring that no one goes to bed hungry. Together, we can build a healthier, more equitable world where everyone has the nourishment they need to thrive.",
+      "price": "300.00"
+    }
+  ]
+  
